@@ -1,2 +1,2 @@
 # test
-understaning the git
+understanding the git
