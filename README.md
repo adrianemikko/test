@@ -1,0 +1,2 @@
+# test
+Understaning the git
